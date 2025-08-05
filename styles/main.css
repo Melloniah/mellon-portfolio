@@ -64,6 +64,9 @@ img.next-image {
   color: #5b6e8b;
 }
 body {
-  background-color: #121212; 
-  color: #e0e0e0;
+  background-color: #5a5a85; 
+  color: #f8f8f8;
+}
+body, body * {
+  color: #f8f8f8 !important;
 }
