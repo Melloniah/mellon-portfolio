@@ -70,3 +70,9 @@ body {
 body, body * {
   color: #f8f8f8 !important;
 }
+a {
+  color: #1c538a;
+}
+a:hover {
+  color: #c07373;
+}
