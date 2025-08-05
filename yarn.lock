@@ -50,6 +50,11 @@
   resolved "https://registry.npmjs.org/@napi-rs/simple-git-linux-x64-gnu/-/simple-git-linux-x64-gnu-0.1.9.tgz"
   integrity sha512-O/Niui5mnHPcK3iYC3ui8wgERtJWsQ3Y74W/09t0bL/3dgzGMl4oQt0qTj9dWCsnoGsIEYHPzwCBp/2vqYp/pw==
 
+"@napi-rs/simple-git-linux-x64-musl@0.1.9":
+  version "0.1.9"
+  resolved "https://registry.npmjs.org/@napi-rs/simple-git-linux-x64-musl/-/simple-git-linux-x64-musl-0.1.9.tgz"
+  integrity sha512-L9n+e8Wn3hKr3RsIdY8GaB+ry4xZ4BaGwyKExgoB8nDGQuRUY9oP6p0WA4hWfJvJnU1H6hvo36a5UFPReyBO7A==
+
 "@napi-rs/simple-git@^0.1.9":
   version "0.1.9"
   resolved "https://registry.npmjs.org/@napi-rs/simple-git/-/simple-git-0.1.9.tgz"
@@ -76,6 +81,11 @@
   version "13.5.6"
   resolved "https://registry.npmjs.org/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-13.5.6.tgz"
   integrity sha512-Mc2b4xiIWKXIhBy2NBTwOxGD3nHLmq4keFk+d4/WL5fMsB8XdJRdtUlL87SqVCTSaf1BRuQQf1HvXZcy+rq3Nw==
+
+"@next/swc-linux-x64-musl@13.5.6":
+  version "13.5.6"
+  resolved "https://registry.npmjs.org/@next/swc-linux-x64-musl/-/swc-linux-x64-musl-13.5.6.tgz"
+  integrity sha512-CFHvP9Qz98NruJiUnCe61O6GveKKHpJLloXbDSWRhqhkJdZD2zU5hG+gtVJR//tyW897izuHpM6Gtf6+sNgJPQ==
 
 "@swc/helpers@0.5.2":
   version "0.5.2"
