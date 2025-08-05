@@ -61,5 +61,9 @@ img.next-image {
 }
 
 .nav-line .nav-link {
-  color: #69778c;
+  color: #5b6e8b;
+}
+body {
+  background-color: #121212; 
+  color: #e0e0e0;
 }
